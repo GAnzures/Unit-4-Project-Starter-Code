@@ -1,16 +1,18 @@
 div {
-    border: 2px solid black;
-    color:#5f6c52;
+    border: 3px solid white;
+    color:black;
     
 }
 
 img {
     width: 200px;
-    border: solid black 4px;
+    border: solid white 4px;
+    margin: 5px;
+    padding:2px;
 }
 
 body {
-    background-color:lightblue;
+    background-color:lightgrey;
 }
 
 
